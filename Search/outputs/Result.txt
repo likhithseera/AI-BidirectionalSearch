@@ -1,0 +1,1729 @@
+contoursMaze_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 13 in 0.0 seconds
+Search nodes expanded: 170
+Total Cost: 13 Nodes: 170
+Pacman emerges victorious! Score: 497
+Average Score: 497.0
+Scores:        497.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 497 Result: Win
+
+contoursMaze_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 85 in 0.0 seconds
+Search nodes expanded: 85
+Total Cost: 85 Nodes: 85
+Pacman emerges victorious! Score: 425
+Average Score: 425.0
+Scores:        425.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 425 Result: Win
+
+contoursMaze_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 13 in 0.0 seconds
+Search nodes expanded: 170
+Total Cost: 13 Nodes: 170
+Pacman emerges victorious! Score: 497
+Average Score: 497.0
+Scores:        497.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 497 Result: Win
+
+contoursMaze_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 13 in 0.0 seconds
+Search nodes expanded: 49
+Total Cost: 13 Nodes: 49
+Pacman emerges victorious! Score: 497
+Average Score: 497.0
+Scores:        497.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 497 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 13 in 0.0 seconds
+Search nodes expanded: 47
+Total Cost: 13 Nodes: 47
+Pacman emerges victorious! Score: 497
+Average Score: 497.0
+Scores:        497.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 497 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 13 in 0.0 seconds
+Search nodes expanded: 46
+Total Cost: 13 Nodes: 46
+Pacman emerges victorious! Score: 497
+Average Score: 497.0
+Scores:        497.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 497 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 13 in 0.0 seconds
+Search nodes expanded: 90
+Total Cost: 13 Nodes: 90
+Pacman emerges victorious! Score: 497
+Average Score: 497.0
+Scores:        497.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 497 Result: Win
+
+openMaze_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 54 in 0.1 seconds
+Search nodes expanded: 682
+Total Cost: 54 Nodes: 682
+Pacman emerges victorious! Score: 456
+Average Score: 456.0
+Scores:        456.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 456 Result: Win
+
+openMaze_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 298 in 0.1 seconds
+Search nodes expanded: 576
+Total Cost: 298 Nodes: 576
+Pacman emerges victorious! Score: 212
+Average Score: 212.0
+Scores:        212.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 212 Result: Win
+
+openMaze_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 54 in 0.0 seconds
+Search nodes expanded: 682
+Total Cost: 54 Nodes: 682
+Pacman emerges victorious! Score: 456
+Average Score: 456.0
+Scores:        456.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 456 Result: Win
+
+openMaze_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 54 in 0.0 seconds
+Search nodes expanded: 535
+Total Cost: 54 Nodes: 535
+Pacman emerges victorious! Score: 456
+Average Score: 456.0
+Scores:        456.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 456 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 54 in 0.0 seconds
+Search nodes expanded: 441
+Total Cost: 54 Nodes: 441
+Pacman emerges victorious! Score: 456
+Average Score: 456.0
+Scores:        456.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 456 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 54 in 0.0 seconds
+Search nodes expanded: 443
+Total Cost: 54 Nodes: 443
+Pacman emerges victorious! Score: 456
+Average Score: 456.0
+Scores:        456.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 456 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 54 in 0.0 seconds
+Search nodes expanded: 443
+Total Cost: 54 Nodes: 443
+Pacman emerges victorious! Score: 456
+Average Score: 456.0
+Scores:        456.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 456 Result: Win
+
+smallMaze_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 19 in 0.0 seconds
+Search nodes expanded: 92
+Total Cost: 19 Nodes: 92
+Pacman emerges victorious! Score: 491
+Average Score: 491.0
+Scores:        491.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 491 Result: Win
+
+smallMaze_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 49 in 0.0 seconds
+Search nodes expanded: 59
+Total Cost: 49 Nodes: 59
+Pacman emerges victorious! Score: 461
+Average Score: 461.0
+Scores:        461.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 461 Result: Win
+
+smallMaze_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 19 in 0.0 seconds
+Search nodes expanded: 92
+Total Cost: 19 Nodes: 92
+Pacman emerges victorious! Score: 491
+Average Score: 491.0
+Scores:        491.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 491 Result: Win
+
+smallMaze_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 19 in 0.0 seconds
+Search nodes expanded: 53
+Total Cost: 19 Nodes: 53
+Pacman emerges victorious! Score: 491
+Average Score: 491.0
+Scores:        491.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 491 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 19 in 0.0 seconds
+Search nodes expanded: 37
+Total Cost: 19 Nodes: 37
+Pacman emerges victorious! Score: 491
+Average Score: 491.0
+Scores:        491.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 491 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 19 in 0.0 seconds
+Search nodes expanded: 41
+Total Cost: 19 Nodes: 41
+Pacman emerges victorious! Score: 491
+Average Score: 491.0
+Scores:        491.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 491 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 19 in 0.0 seconds
+Search nodes expanded: 50
+Total Cost: 19 Nodes: 50
+Pacman emerges victorious! Score: 491
+Average Score: 491.0
+Scores:        491.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 491 Result: Win
+
+mediumMaze_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 269
+Total Cost: 68 Nodes: 269
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+mediumMaze_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 130 in 0.0 seconds
+Search nodes expanded: 146
+Total Cost: 130 Nodes: 146
+Pacman emerges victorious! Score: 380
+Average Score: 380.0
+Scores:        380.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 380 Result: Win
+
+mediumMaze_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 269
+Total Cost: 68 Nodes: 269
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+mediumMaze_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 221
+Total Cost: 68 Nodes: 221
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 183
+Total Cost: 68 Nodes: 183
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 183
+Total Cost: 68 Nodes: 183
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 184
+Total Cost: 68 Nodes: 184
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bigMaze1_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 78 in 0.0 seconds
+Search nodes expanded: 393
+Total Cost: 78 Nodes: 393
+Pacman emerges victorious! Score: 432
+Average Score: 432.0
+Scores:        432.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 432 Result: Win
+
+bigMaze1_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 78 in 0.0 seconds
+Search nodes expanded: 565
+Total Cost: 78 Nodes: 565
+Pacman emerges victorious! Score: 432
+Average Score: 432.0
+Scores:        432.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 432 Result: Win
+
+bigMaze1_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 78 in 0.0 seconds
+Search nodes expanded: 393
+Total Cost: 78 Nodes: 393
+Pacman emerges victorious! Score: 432
+Average Score: 432.0
+Scores:        432.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 432 Result: Win
+
+bigMaze1_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 78 in 0.0 seconds
+Search nodes expanded: 242
+Total Cost: 78 Nodes: 242
+Pacman emerges victorious! Score: 432
+Average Score: 432.0
+Scores:        432.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 432 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 78 in 0.0 seconds
+Search nodes expanded: 197
+Total Cost: 78 Nodes: 197
+Pacman emerges victorious! Score: 432
+Average Score: 432.0
+Scores:        432.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 432 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 78 in 0.0 seconds
+Search nodes expanded: 222
+Total Cost: 78 Nodes: 222
+Pacman emerges victorious! Score: 432
+Average Score: 432.0
+Scores:        432.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 432 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 78 in 0.0 seconds
+Search nodes expanded: 225
+Total Cost: 78 Nodes: 225
+Pacman emerges victorious! Score: 432
+Average Score: 432.0
+Scores:        432.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 432 Result: Win
+
+bigMaze2_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 74 in 0.0 seconds
+Search nodes expanded: 376
+Total Cost: 74 Nodes: 376
+Pacman emerges victorious! Score: 436
+Average Score: 436.0
+Scores:        436.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 436 Result: Win
+
+bigMaze2_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 214 in 0.0 seconds
+Search nodes expanded: 402
+Total Cost: 214 Nodes: 402
+Pacman emerges victorious! Score: 296
+Average Score: 296.0
+Scores:        296.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 296 Result: Win
+
+bigMaze2_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 74 in 0.0 seconds
+Search nodes expanded: 376
+Total Cost: 74 Nodes: 376
+Pacman emerges victorious! Score: 436
+Average Score: 436.0
+Scores:        436.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 436 Result: Win
+
+bigMaze2_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 74 in 0.0 seconds
+Search nodes expanded: 244
+Total Cost: 74 Nodes: 244
+Pacman emerges victorious! Score: 436
+Average Score: 436.0
+Scores:        436.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 436 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 74 in 0.0 seconds
+Search nodes expanded: 197
+Total Cost: 74 Nodes: 197
+Pacman emerges victorious! Score: 436
+Average Score: 436.0
+Scores:        436.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 436 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 74 in 0.0 seconds
+Search nodes expanded: 214
+Total Cost: 74 Nodes: 214
+Pacman emerges victorious! Score: 436
+Average Score: 436.0
+Scores:        436.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 436 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 74 in 0.0 seconds
+Search nodes expanded: 216
+Total Cost: 74 Nodes: 216
+Pacman emerges victorious! Score: 436
+Average Score: 436.0
+Scores:        436.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 436 Result: Win
+
+bigMaze3_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 158 in 0.0 seconds
+Search nodes expanded: 622
+Total Cost: 158 Nodes: 622
+Pacman emerges victorious! Score: 352
+Average Score: 352.0
+Scores:        352.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 352 Result: Win
+
+bigMaze3_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 186 in 0.0 seconds
+Search nodes expanded: 459
+Total Cost: 186 Nodes: 459
+Pacman emerges victorious! Score: 324
+Average Score: 324.0
+Scores:        324.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 324 Result: Win
+
+bigMaze3_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 158 in 0.0 seconds
+Search nodes expanded: 622
+Total Cost: 158 Nodes: 622
+Pacman emerges victorious! Score: 352
+Average Score: 352.0
+Scores:        352.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 352 Result: Win
+
+bigMaze3_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 158 in 0.0 seconds
+Search nodes expanded: 550
+Total Cost: 158 Nodes: 550
+Pacman emerges victorious! Score: 352
+Average Score: 352.0
+Scores:        352.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 352 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 158 in 0.0 seconds
+Search nodes expanded: 514
+Total Cost: 158 Nodes: 514
+Pacman emerges victorious! Score: 352
+Average Score: 352.0
+Scores:        352.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 352 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 158 in 0.0 seconds
+Search nodes expanded: 514
+Total Cost: 158 Nodes: 514
+Pacman emerges victorious! Score: 352
+Average Score: 352.0
+Scores:        352.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 352 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 158 in 0.0 seconds
+Search nodes expanded: 514
+Total Cost: 158 Nodes: 514
+Pacman emerges victorious! Score: 352
+Average Score: 352.0
+Scores:        352.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 352 Result: Win
+
+bigMaze4_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 663
+Total Cost: 68 Nodes: 663
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bigMaze4_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 110 in 0.0 seconds
+Search nodes expanded: 465
+Total Cost: 110 Nodes: 465
+Pacman emerges victorious! Score: 400
+Average Score: 400.0
+Scores:        400.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 400 Result: Win
+
+bigMaze4_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 663
+Total Cost: 68 Nodes: 663
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bigMaze4_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 276
+Total Cost: 68 Nodes: 276
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 234
+Total Cost: 68 Nodes: 234
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 232
+Total Cost: 68 Nodes: 232
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 68 in 0.0 seconds
+Search nodes expanded: 239
+Total Cost: 68 Nodes: 239
+Pacman emerges victorious! Score: 442
+Average Score: 442.0
+Scores:        442.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 442 Result: Win
+
+bigMaze5_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 77 in 0.0 seconds
+Search nodes expanded: 500
+Total Cost: 77 Nodes: 500
+Pacman emerges victorious! Score: 433
+Average Score: 433.0
+Scores:        433.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 433 Result: Win
+
+bigMaze5_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 77 in 0.0 seconds
+Search nodes expanded: 422
+Total Cost: 77 Nodes: 422
+Pacman emerges victorious! Score: 433
+Average Score: 433.0
+Scores:        433.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 433 Result: Win
+
+bigMaze5_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 77 in 0.0 seconds
+Search nodes expanded: 500
+Total Cost: 77 Nodes: 500
+Pacman emerges victorious! Score: 433
+Average Score: 433.0
+Scores:        433.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 433 Result: Win
+
+bigMaze5_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 77 in 0.0 seconds
+Search nodes expanded: 342
+Total Cost: 77 Nodes: 342
+Pacman emerges victorious! Score: 433
+Average Score: 433.0
+Scores:        433.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 433 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 77 in 0.0 seconds
+Search nodes expanded: 302
+Total Cost: 77 Nodes: 302
+Pacman emerges victorious! Score: 433
+Average Score: 433.0
+Scores:        433.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 433 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 77 in 0.0 seconds
+Search nodes expanded: 344
+Total Cost: 77 Nodes: 344
+Pacman emerges victorious! Score: 433
+Average Score: 433.0
+Scores:        433.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 433 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 77 in 0.0 seconds
+Search nodes expanded: 339
+Total Cost: 77 Nodes: 339
+Pacman emerges victorious! Score: 433
+Average Score: 433.0
+Scores:        433.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 433 Result: Win
+
+bigMaze6_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 605
+Total Cost: 70 Nodes: 605
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze6_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 74 in 0.0 seconds
+Search nodes expanded: 219
+Total Cost: 74 Nodes: 219
+Pacman emerges victorious! Score: 436
+Average Score: 436.0
+Scores:        436.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 436 Result: Win
+
+bigMaze6_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 605
+Total Cost: 70 Nodes: 605
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze6_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 316
+Total Cost: 70 Nodes: 316
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 236
+Total Cost: 70 Nodes: 236
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 258
+Total Cost: 70 Nodes: 258
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 271
+Total Cost: 70 Nodes: 271
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze7_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 76 in 0.0 seconds
+Search nodes expanded: 466
+Total Cost: 76 Nodes: 466
+Pacman emerges victorious! Score: 434
+Average Score: 434.0
+Scores:        434.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 434 Result: Win
+
+bigMaze7_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 76 in 0.0 seconds
+Search nodes expanded: 125
+Total Cost: 76 Nodes: 125
+Pacman emerges victorious! Score: 434
+Average Score: 434.0
+Scores:        434.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 434 Result: Win
+
+bigMaze7_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 76 in 0.0 seconds
+Search nodes expanded: 466
+Total Cost: 76 Nodes: 466
+Pacman emerges victorious! Score: 434
+Average Score: 434.0
+Scores:        434.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 434 Result: Win
+
+bigMaze7_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 76 in 0.0 seconds
+Search nodes expanded: 315
+Total Cost: 76 Nodes: 315
+Pacman emerges victorious! Score: 434
+Average Score: 434.0
+Scores:        434.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 434 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 76 in 0.0 seconds
+Search nodes expanded: 271
+Total Cost: 76 Nodes: 271
+Pacman emerges victorious! Score: 434
+Average Score: 434.0
+Scores:        434.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 434 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 76 in 0.0 seconds
+Search nodes expanded: 277
+Total Cost: 76 Nodes: 277
+Pacman emerges victorious! Score: 434
+Average Score: 434.0
+Scores:        434.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 434 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 76 in 0.0 seconds
+Search nodes expanded: 277
+Total Cost: 76 Nodes: 277
+Pacman emerges victorious! Score: 434
+Average Score: 434.0
+Scores:        434.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 434 Result: Win
+
+bigMaze8_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 57 in 0.0 seconds
+Search nodes expanded: 350
+Total Cost: 57 Nodes: 350
+Pacman emerges victorious! Score: 453
+Average Score: 453.0
+Scores:        453.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 453 Result: Win
+
+bigMaze8_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 209 in 0.0 seconds
+Search nodes expanded: 440
+Total Cost: 209 Nodes: 440
+Pacman emerges victorious! Score: 301
+Average Score: 301.0
+Scores:        301.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 301 Result: Win
+
+bigMaze8_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 57 in 0.0 seconds
+Search nodes expanded: 350
+Total Cost: 57 Nodes: 350
+Pacman emerges victorious! Score: 453
+Average Score: 453.0
+Scores:        453.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 453 Result: Win
+
+bigMaze8_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 57 in 0.0 seconds
+Search nodes expanded: 195
+Total Cost: 57 Nodes: 195
+Pacman emerges victorious! Score: 453
+Average Score: 453.0
+Scores:        453.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 453 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 57 in 0.0 seconds
+Search nodes expanded: 171
+Total Cost: 57 Nodes: 171
+Pacman emerges victorious! Score: 453
+Average Score: 453.0
+Scores:        453.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 453 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 57 in 0.0 seconds
+Search nodes expanded: 175
+Total Cost: 57 Nodes: 175
+Pacman emerges victorious! Score: 453
+Average Score: 453.0
+Scores:        453.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 453 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 57 in 0.0 seconds
+Search nodes expanded: 176
+Total Cost: 57 Nodes: 176
+Pacman emerges victorious! Score: 453
+Average Score: 453.0
+Scores:        453.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 453 Result: Win
+
+bigMaze9_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 660
+Total Cost: 70 Nodes: 660
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze9_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 82 in 0.0 seconds
+Search nodes expanded: 430
+Total Cost: 82 Nodes: 430
+Pacman emerges victorious! Score: 428
+Average Score: 428.0
+Scores:        428.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 428 Result: Win
+
+bigMaze9_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 660
+Total Cost: 70 Nodes: 660
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze9_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 385
+Total Cost: 70 Nodes: 385
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 241
+Total Cost: 70 Nodes: 241
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 309
+Total Cost: 70 Nodes: 309
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 322
+Total Cost: 70 Nodes: 322
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze10_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 449
+Total Cost: 70 Nodes: 449
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze10_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 98
+Total Cost: 70 Nodes: 98
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze10_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 449
+Total Cost: 70 Nodes: 449
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze10_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 202
+Total Cost: 70 Nodes: 202
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 196
+Total Cost: 70 Nodes: 196
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 224
+Total Cost: 70 Nodes: 224
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 70 in 0.0 seconds
+Search nodes expanded: 233
+Total Cost: 70 Nodes: 233
+Pacman emerges victorious! Score: 440
+Average Score: 440.0
+Scores:        440.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 440 Result: Win
+
+bigMaze11_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 113 in 0.0 seconds
+Search nodes expanded: 629
+Total Cost: 113 Nodes: 629
+Pacman emerges victorious! Score: 397
+Average Score: 397.0
+Scores:        397.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 397 Result: Win
+
+bigMaze11_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 125 in 0.0 seconds
+Search nodes expanded: 292
+Total Cost: 125 Nodes: 292
+Pacman emerges victorious! Score: 385
+Average Score: 385.0
+Scores:        385.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 385 Result: Win
+
+bigMaze11_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 113 in 0.0 seconds
+Search nodes expanded: 629
+Total Cost: 113 Nodes: 629
+Pacman emerges victorious! Score: 397
+Average Score: 397.0
+Scores:        397.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 397 Result: Win
+
+bigMaze11_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 113 in 0.0 seconds
+Search nodes expanded: 497
+Total Cost: 113 Nodes: 497
+Pacman emerges victorious! Score: 397
+Average Score: 397.0
+Scores:        397.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 397 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 113 in 0.0 seconds
+Search nodes expanded: 535
+Total Cost: 113 Nodes: 535
+Pacman emerges victorious! Score: 397
+Average Score: 397.0
+Scores:        397.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 397 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 113 in 0.0 seconds
+Search nodes expanded: 535
+Total Cost: 113 Nodes: 535
+Pacman emerges victorious! Score: 397
+Average Score: 397.0
+Scores:        397.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 397 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 113 in 0.0 seconds
+Search nodes expanded: 537
+Total Cost: 113 Nodes: 537
+Pacman emerges victorious! Score: 397
+Average Score: 397.0
+Scores:        397.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 397 Result: Win
+
+bigMaze12_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 614
+Total Cost: 210 Nodes: 614
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bigMaze12_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 384
+Total Cost: 210 Nodes: 384
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bigMaze12_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 614
+Total Cost: 210 Nodes: 614
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bigMaze12_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 543
+Total Cost: 210 Nodes: 543
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 591
+Total Cost: 210 Nodes: 591
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 591
+Total Cost: 210 Nodes: 591
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 591
+Total Cost: 210 Nodes: 591
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bigMaze13_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 134 in 0.0 seconds
+Search nodes expanded: 622
+Total Cost: 134 Nodes: 622
+Pacman emerges victorious! Score: 376
+Average Score: 376.0
+Scores:        376.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 376 Result: Win
+
+bigMaze13_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 178 in 0.0 seconds
+Search nodes expanded: 336
+Total Cost: 178 Nodes: 336
+Pacman emerges victorious! Score: 332
+Average Score: 332.0
+Scores:        332.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 332 Result: Win
+
+bigMaze13_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 134 in 0.0 seconds
+Search nodes expanded: 622
+Total Cost: 134 Nodes: 622
+Pacman emerges victorious! Score: 376
+Average Score: 376.0
+Scores:        376.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 376 Result: Win
+
+bigMaze13_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 134 in 0.0 seconds
+Search nodes expanded: 451
+Total Cost: 134 Nodes: 451
+Pacman emerges victorious! Score: 376
+Average Score: 376.0
+Scores:        376.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 376 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 134 in 0.0 seconds
+Search nodes expanded: 505
+Total Cost: 134 Nodes: 505
+Pacman emerges victorious! Score: 376
+Average Score: 376.0
+Scores:        376.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 376 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 134 in 0.0 seconds
+Search nodes expanded: 506
+Total Cost: 134 Nodes: 506
+Pacman emerges victorious! Score: 376
+Average Score: 376.0
+Scores:        376.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 376 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 134 in 0.0 seconds
+Search nodes expanded: 506
+Total Cost: 134 Nodes: 506
+Pacman emerges victorious! Score: 376
+Average Score: 376.0
+Scores:        376.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 376 Result: Win
+
+bigMaze14_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 106 in 0.0 seconds
+Search nodes expanded: 624
+Total Cost: 106 Nodes: 624
+Pacman emerges victorious! Score: 404
+Average Score: 404.0
+Scores:        404.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 404 Result: Win
+
+bigMaze14_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 166 in 0.0 seconds
+Search nodes expanded: 292
+Total Cost: 166 Nodes: 292
+Pacman emerges victorious! Score: 344
+Average Score: 344.0
+Scores:        344.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 344 Result: Win
+
+bigMaze14_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 106 in 0.0 seconds
+Search nodes expanded: 624
+Total Cost: 106 Nodes: 624
+Pacman emerges victorious! Score: 404
+Average Score: 404.0
+Scores:        404.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 404 Result: Win
+
+bigMaze14_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 106 in 0.0 seconds
+Search nodes expanded: 330
+Total Cost: 106 Nodes: 330
+Pacman emerges victorious! Score: 404
+Average Score: 404.0
+Scores:        404.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 404 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 106 in 0.0 seconds
+Search nodes expanded: 385
+Total Cost: 106 Nodes: 385
+Pacman emerges victorious! Score: 404
+Average Score: 404.0
+Scores:        404.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 404 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 106 in 0.0 seconds
+Search nodes expanded: 397
+Total Cost: 106 Nodes: 397
+Pacman emerges victorious! Score: 404
+Average Score: 404.0
+Scores:        404.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 404 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 106 in 0.0 seconds
+Search nodes expanded: 400
+Total Cost: 106 Nodes: 400
+Pacman emerges victorious! Score: 404
+Average Score: 404.0
+Scores:        404.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 404 Result: Win
+
+bigMaze15_bfs
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 620
+Total Cost: 210 Nodes: 620
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bigMaze15_dfs
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 390
+Total Cost: 210 Nodes: 390
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bigMaze15_ucs
+[SearchAgent] using function ucs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 620
+Total Cost: 210 Nodes: 620
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bigMaze15_astar
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 549
+Total Cost: 210 Nodes: 549
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bds_mmMan
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 605
+Total Cost: 210 Nodes: 605
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bds_mmEuc
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 605
+Total Cost: 210 Nodes: 605
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+
+bds_mm0
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 210 in 0.0 seconds
+Search nodes expanded: 605
+Total Cost: 210 Nodes: 605
+Pacman emerges victorious! Score: 300
+Average Score: 300.0
+Scores:        300.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 300 Result: Win
+

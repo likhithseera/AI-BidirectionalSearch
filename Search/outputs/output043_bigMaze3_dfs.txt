@@ -1,0 +1,11 @@
+[SearchAgent] using function dfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 186 in 0.0 seconds
+Search nodes expanded: 459
+Total Cost: 186 Nodes: 459
+Pacman emerges victorious! Score: 324
+Average Score: 324.0
+Scores:        324.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 324 Result: Win

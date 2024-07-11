@@ -1,0 +1,11 @@
+[SearchAgent] using function bfs
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 54 in 0.1 seconds
+Search nodes expanded: 682
+Total Cost: 54 Nodes: 682
+Pacman emerges victorious! Score: 456
+Average Score: 456.0
+Scores:        456.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 456 Result: Win

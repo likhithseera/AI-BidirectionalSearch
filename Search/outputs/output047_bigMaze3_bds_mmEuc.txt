@@ -1,0 +1,11 @@
+[SearchAgent] using function bds_mmEuc and heuristic euclideanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 158 in 0.0 seconds
+Search nodes expanded: 514
+Total Cost: 158 Nodes: 514
+Pacman emerges victorious! Score: 352
+Average Score: 352.0
+Scores:        352.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 352 Result: Win

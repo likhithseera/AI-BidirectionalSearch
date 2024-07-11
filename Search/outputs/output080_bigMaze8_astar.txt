@@ -1,0 +1,11 @@
+[SearchAgent] using function astar and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 57 in 0.0 seconds
+Search nodes expanded: 195
+Total Cost: 57 Nodes: 195
+Pacman emerges victorious! Score: 453
+Average Score: 453.0
+Scores:        453.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 453 Result: Win

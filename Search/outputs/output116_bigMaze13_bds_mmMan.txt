@@ -1,0 +1,11 @@
+[SearchAgent] using function bds_mmMan and heuristic manhattanHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 134 in 0.0 seconds
+Search nodes expanded: 505
+Total Cost: 134 Nodes: 505
+Pacman emerges victorious! Score: 376
+Average Score: 376.0
+Scores:        376.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 376 Result: Win

@@ -1,0 +1,11 @@
+[SearchAgent] using function bds_mm0 and heuristic nullHeuristic
+[SearchAgent] using problem type PositionSearchProblem
+Path found with total cost of 13 in 0.0 seconds
+Search nodes expanded: 90
+Total Cost: 13 Nodes: 90
+Pacman emerges victorious! Score: 497
+Average Score: 497.0
+Scores:        497.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+Score: 497 Result: Win
